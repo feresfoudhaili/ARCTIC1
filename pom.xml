@@ -15,8 +15,8 @@
 
 	<distributionManagement>
 		<repository>
-			<id>nexus-releases</id>
-			<name>releases</name>
+			<id>simple_releases</id>
+			<name>simple_releases</name>
 			<url>http://localhost:8081/nexus/content/repositories/simple_releases/</url>
 		</repository>
 	</distributionManagement>
